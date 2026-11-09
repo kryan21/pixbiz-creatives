@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://pixbizcreatives.com/sitemap.xml
+
+# Pixbiz Creatives — V5.0 clean agency
